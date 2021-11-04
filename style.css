@@ -1,0 +1,12 @@
+img {
+width: 100px;
+height: 100px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+padding-left: 40px;
+}
+body{
+    padding: 20px;
+    background-color: #999;
+}
